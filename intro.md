@@ -13,7 +13,7 @@ The features enable instructors to easily create questions that can randomize an
 
 PrarieLearn is inspired by a mastery learning philosophy that seeks to inspire students with the motivation to self-assess and re-test their skills until optimal understanding is achieved. To this end, it grants instructors immense autonomy and flexibilty in determining how best to assess their students. It's unique grading system ensures that students are given immediate feedback throughout the assessment process, thereby encouraging them to check their answers and re-test themselves based on learning outcomes. PrarieLearn's unique autograding feature ensures that students can get a new variant of particular problem each time they are assessed. Student can therefore retry concepts and instances until they master a particular type of question. 
 
-PrarieLearn was designed in conjunction with the [Computer-Based Testing Facility](https://cbtf.illinois.edu/) to allow for asynchronous testing. New and current users are welcome to a weekly CBTF/PrairieLearn "Office Hours" where faculty users come together to work on test items in an open-office-hour format. Contact [Dave Mussulman (Engineering)](mussulma@illinois.edu), [Mariana Silva (Engineering](mfsilva@illinois.edu), or [Julie Baker (LAS)](juliemb@illinois.edu) for more information.
+<!-- PrarieLearn was designed in conjunction with the [Computer-Based Testing Facility](https://cbtf.illinois.edu/) to allow for asynchronous testing. New and current users are welcome to a weekly CBTF/PrairieLearn "Office Hours" where faculty users come together to work on test items in an open-office-hour format. Contact [Dave Mussulman (Engineering)](mussulma@illinois.edu), [Mariana Silva (Engineering](mfsilva@illinois.edu), or [Julie Baker (LAS)](juliemb@illinois.edu) for more information. -->
 
 <!-- Need some language about background. Do we want to include language about CBTF? 
 Do we have literature I can cite about testing motivation? 
@@ -67,7 +67,7 @@ Now that we have a understanding of PrarieLearn and a basic portal created. The 
     - Frequent, smaller assessments (can reduce stress, achieve better learning)
     - For homework, include an automatic partial credit late period (e.g. 2-day 70% window)
 
-Contact [Dave Mussulman (Engineering)](mussulma@illinois.edu), [Mariana Silva (Engineering](mfsilva@illinois.edu), or [Julie Baker (LAS)](juliemb@illinois.edu) for more information about office hours and reach out for assistance.
+<!-- Contact [Dave Mussulman (Engineering)](mussulma@illinois.edu), [Mariana Silva (Engineering](mfsilva@illinois.edu), or [Julie Baker (LAS)](juliemb@illinois.edu) for more information about office hours and reach out for assistance. -->
 
 ### Other useful Resources
 
